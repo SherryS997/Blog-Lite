@@ -1,4 +1,4 @@
-openssl
+pyOpenSSL
 Flask
 Flask-SQLAlchemy
 Flask-Restful
