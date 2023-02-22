@@ -1,3 +1,4 @@
+openssl
 Flask
 Flask-SQLAlchemy
 Flask-Restful
@@ -5,4 +6,3 @@ passlib
 Flask-Cors
 secrets
 matplotlib
-openssl
