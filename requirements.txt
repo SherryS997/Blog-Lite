@@ -5,3 +5,4 @@ passlib
 Flask-Cors
 secrets
 matplotlib
+openssl
