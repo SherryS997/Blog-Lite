@@ -7,4 +7,5 @@
 * For further details regarding the app, refer to ```Project Report``` from the docs folder and for details regarding the API, refer to ```openapi.yaml```.
 
 **Live Demo**: [here](https://sherrys997.github.io/blog-lite.github.io/). Please note that the site is static, and hence, certain things won't work.
+
 **Video Demo**: [here](https://youtu.be/qKDkoAXw8gY)
